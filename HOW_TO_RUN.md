@@ -137,9 +137,11 @@ MAX_CONTENT_LENGTH=10MB      # Max file size
 
 ## 📞 Support
 
-- **Project Team**: Adarsh, Kiran, and Anil
+- **Project Team**: Adarsh, Anil, and Kiran
+- **Email**: adarshnayik2@gmail.com
+- **Phone**: +91 9900893665
 - **GitHub**: [@adarshnayik](https://github.com/adarshnayik)
 
 ---
 
-**Made with ❤️ by Adarsh, Kiran, and Anil**
+**Made with ❤️ by Adarsh, Anil, and Kiran**

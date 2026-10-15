@@ -302,8 +302,12 @@ Contributions are welcome! Please follow these steps:
 ## 👨‍💻 Project Team
 
 - Adarsh
-- Kiran
 - Anil
+- Kiran
+
+- **Email**: adarshnayik2@gmail.com
+- **Phone**: +91 9900893665
+- **GitHub**: [@adarshnayik](https://github.com/adarshnayik)
 
 ---
 
@@ -350,7 +354,7 @@ This tool is for educational and research purposes. While it provides deepfake d
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ by Adarsh, Kiran, and Anil
+Made with ❤️ by Adarsh, Anil, and Kiran
 
 [Report Bug](https://github.com/adarshnayik/deepfake-detector/issues) · [Request Feature](https://github.com/adarshnayik/deepfake-detector/issues) · [Documentation](https://github.com/adarshnayik/deepfake-detector/wiki)
 
