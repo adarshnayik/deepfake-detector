@@ -1,0 +1,51 @@
+# Datasets and training data
+datasets/
+data/
+real_data/
+synthetic_data/
+heavy_training_data/
+sample_images/
+
+# Model files
+models/
+checkpoints/
+
+# Logs and uploads
+logs/
+uploads/
+
+# Documentation
+*.md
+!README.md
+
+# Git files
+.git/
+.github/
+
+# IDE files
+.vscode/
+.idea/
+.qodo/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other
+.vercel/
+.railwayignore
+run.py
+requirements-full.txt
+requirements-vercel.txt
