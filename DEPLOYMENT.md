@@ -241,7 +241,7 @@ vercel --prod
 If you encounter issues:
 - Check [Vercel Documentation](https://vercel.com/docs)
 - Review [Flask Deployment Guide](https://flask.palletsprojects.com/en/latest/deploying/)
-- Contact: omkardigambar4@gmail.com
+- Contact the project team through the repository issue tracker.
 
 ## 🎉 Success!
 
@@ -253,4 +253,4 @@ Share your deployment and start detecting deepfakes! 🚀
 
 ---
 
-**Made with ❤️ by Omkar Kalagi**
+**Made with ❤️ by Adarsh, Kiran, and Anil**

@@ -9,9 +9,9 @@
 ### **Status**: ● Building (In Progress)
 
 ### **Production URLs**:
-- **Latest**: https://deepfake-detector-zrxtxti0t-omkar-ds-projects.vercel.app (Queued)
-- **Building**: https://deepfake-detector-qzcrkl52y-omkar-ds-projects.vercel.app (Building - 21 minutes)
-- **Main Domain**: https://deepfake-detector-omkar-ds-projects.vercel.app
+- **Latest**: Configure your Vercel deployment after import.
+- **Building**: Check build progress in your Vercel dashboard.
+- **Main Domain**: https://your-project.vercel.app
 
 ### **Deployment Timeline**:
 1. ✅ **Fixed vercel.json** - Removed `functions` property conflict
@@ -189,7 +189,7 @@ Once deployment is live, test these features:
 ### **GitHub Push Success**:
 - ✅ No commits ahead of origin (`git status` shows clean)
 - ✅ All commits visible on GitHub
-- ✅ Repository accessible at https://github.com/omkarkalagi/Ai-Deepfake-Detector
+- ✅ Repository accessible at https://github.com/adarshnayik/deepfake-detector
 
 ---
 
@@ -218,10 +218,10 @@ Once deployment is live, test these features:
 ## 📞 **SUPPORT**
 
 ### **Vercel Dashboard**:
-https://vercel.com/omkar-ds-projects/deepfake-detector
+https://vercel.com
 
 ### **GitHub Repository**:
-https://github.com/omkarkalagi/Ai-Deepfake-Detector
+https://github.com/adarshnayik/deepfake-detector
 
 ### **Vercel CLI Commands**:
 ```bash

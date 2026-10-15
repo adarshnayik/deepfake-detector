@@ -115,7 +115,7 @@ If you want to start fresh:
 
 1. **Delete the old project** in Vercel (if it exists)
 2. **Go to:** https://vercel.com/new
-3. **Import:** `omkarkalagi/Ai-Deepfake-Detector`
+3. **Import:** `adarshnayik/deepfake-detector`
 4. **Add environment variables:**
    ```
    SECRET_KEY=<generate-with-python>

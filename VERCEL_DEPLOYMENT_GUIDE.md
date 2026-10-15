@@ -20,7 +20,7 @@ Visit: https://vercel.com/new
 
 #### **Step 2: Import Your Repository**
 1. Click **"Import Git Repository"**
-2. Select: `omkarkalagi/Ai-Deepfake-Detector`
+2. Select: `adarshnayik/deepfake-detector`
 3. Click **"Import"**
 
 #### **Step 3: Configure Project Settings**
@@ -318,7 +318,7 @@ After successful deployment:
 
 - **Vercel Documentation:** https://vercel.com/docs
 - **Python on Vercel:** https://vercel.com/docs/functions/serverless-functions/runtimes/python
-- **GitHub Repository:** https://github.com/omkarkalagi/Ai-Deepfake-Detector
+- **GitHub Repository:** https://github.com/adarshnayik/deepfake-detector
 
 ---
 

@@ -17,7 +17,7 @@
 1. Go to **https://vercel.com**
 2. Click **"Sign in with GitHub"**
 3. Click **"Add New..."** → **"Project"**
-4. Find and select: **`omkarkalagi/Ai-Deepfake-Detector`**
+4. Find and select: **`adarshnayik/deepfake-detector`**
 5. Click **"Import"**
 6. **Project Settings:**
    - Framework Preset: **Other**
@@ -111,5 +111,5 @@ Just wait for GitHub push to complete, then deploy via Vercel Dashboard. It's th
 
 ---
 
-**Your GitHub Repo**: https://github.com/omkarkalagi/Ai-Deepfake-Detector
+**Your GitHub Repo**: https://github.com/adarshnayik/deepfake-detector
 **Vercel Dashboard**: https://vercel.com/dashboard

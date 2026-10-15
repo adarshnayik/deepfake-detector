@@ -4,7 +4,6 @@ Live Model - https://deepfake-detector-ai.vercel.app/
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-3.x-green.svg)](https://flask.palletsprojects.com)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black.svg)](https://vercel.com)
 
 > **Advanced AI-powered platform for detecting deepfake images with real-time training capabilities and comprehensive analytics.**
@@ -56,8 +55,8 @@ Live Model - https://deepfake-detector-ai.vercel.app/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/omkarkalagi/Ai-Deepfake-Detector.git
-cd Ai-Deepfake-Detector
+git clone https://github.com/adarshnayik/deepfake-detector.git
+cd deepfake-detector
 ```
 
 2. **Install dependencies**
@@ -300,19 +299,11 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
+## 👨‍💻 Project Team
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Author
-
-**Omkar Kalagi**
-- 📧 Email: omkardigambar4@gmail.com
-- 📱 Phone: +91 7624828106
-- 🌐 GitHub: [@omkarkalagi](https://github.com/omkarkalagi)
-- 💼 LinkedIn: [Omkar Kalagi](https://linkedin.com/in/omkar-kalagi)
+- Adarsh
+- Kiran
+- Anil
 
 ---
 
@@ -329,10 +320,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Repository Stats
 
-![Repository Size](https://img.shields.io/github/repo-size/omkarkalagi/Ai-Deepfake-Detector)
-![Last Commit](https://img.shields.io/github/last-commit/omkarkalagi/Ai-Deepfake-Detector)
-![Issues](https://img.shields.io/github/issues/omkarkalagi/Ai-Deepfake-Detector)
-![Pull Requests](https://img.shields.io/github/issues-pr/omkarkalagi/Ai-Deepfake-Detector)
+![Repository Size](https://img.shields.io/github/repo-size/adarshnayik/deepfake-detector)
+![Last Commit](https://img.shields.io/github/last-commit/adarshnayik/deepfake-detector)
+![Issues](https://img.shields.io/github/issues/adarshnayik/deepfake-detector)
+![Pull Requests](https://img.shields.io/github/issues-pr/adarshnayik/deepfake-detector)
 
 ---
 
@@ -359,8 +350,8 @@ This tool is for educational and research purposes. While it provides deepfake d
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ by [Omkar Kalagi](https://github.com/omkarkalagi)
+Made with ❤️ by Adarsh, Kiran, and Anil
 
-[Report Bug](https://github.com/omkarkalagi/Ai-Deepfake-Detector/issues) · [Request Feature](https://github.com/omkarkalagi/Ai-Deepfake-Detector/issues) · [Documentation](https://github.com/omkarkalagi/Ai-Deepfake-Detector/wiki)
+[Report Bug](https://github.com/adarshnayik/deepfake-detector/issues) · [Request Feature](https://github.com/adarshnayik/deepfake-detector/issues) · [Documentation](https://github.com/adarshnayik/deepfake-detector/wiki)
 
 </div>

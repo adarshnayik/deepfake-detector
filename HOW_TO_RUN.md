@@ -137,10 +137,9 @@ MAX_CONTENT_LENGTH=10MB      # Max file size
 
 ## 📞 Support
 
-- **Developer**: Omkar Kalagi
-- **Email**: omkardigambar4@gmail.com
-- **GitHub**: [@omkarkalagi](https://github.com/omkarkalagi)
+- **Project Team**: Adarsh, Kiran, and Anil
+- **GitHub**: [@adarshnayik](https://github.com/adarshnayik)
 
 ---
 
-**Made with ❤️ by Omkar Kalagi**
+**Made with ❤️ by Adarsh, Kiran, and Anil**

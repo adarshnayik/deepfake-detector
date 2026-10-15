@@ -154,7 +154,6 @@ The README.md file has been completely refreshed to reflect the **current state*
 - [DEPLOYMENT_STATUS.md](DEPLOYMENT_STATUS.md) - Current status
 - [GITHUB_PUSH_RESOLUTION.md](GITHUB_PUSH_RESOLUTION.md) - Git optimization
 - [HOW_TO_RUN.md](HOW_TO_RUN.md) - Running instructions
-- [LICENSE](LICENSE) - MIT License
 - GitHub Issues - Bug reports and features
 - GitHub Wiki - Documentation (placeholder)
 

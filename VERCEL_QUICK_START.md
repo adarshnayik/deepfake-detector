@@ -5,7 +5,7 @@
 ### **Step 1: Import Project (30 seconds)**
 1. Go to: https://vercel.com/new
 2. Click "Import Git Repository"
-3. Select: `omkarkalagi/Ai-Deepfake-Detector`
+3. Select: `adarshnayik/deepfake-detector`
 4. Click "Import"
 
 ### **Step 2: Generate SECRET_KEY (30 seconds)**

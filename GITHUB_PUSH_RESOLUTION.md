@@ -26,7 +26,7 @@ git tag backup-before-filter-repo
 git filter-repo --path datasets/faceforensics/benchmark_images.zip --invert-paths --force
 
 # Re-add the remote (filter-repo removes it as a safety measure)
-git remote add origin https://github.com/omkarkalagi/Ai-Deepfake-Detector.git
+git remote add origin https://github.com/adarshnayik/deepfake-detector.git
 
 # Force push the cleaned history
 git push origin main --force

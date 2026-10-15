@@ -45,7 +45,7 @@ class DeepfakeChatbot {
                 "Check out our API Explorer page for interactive documentation and code examples in multiple languages."
             ],
             team: [
-                "This is a final-year engineering project demonstration by Adarsh and Team, focused on deepfake image analysis.",
+                "This is a final-year engineering project by Adarsh, Kiran, and Anil, focused on deepfake image analysis.",
                 "The system combines image processing, confidence scoring, and a web-based user interface.",
                 "Project details are available on the About page."
             ],

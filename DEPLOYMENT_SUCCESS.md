@@ -6,15 +6,15 @@
 Your application is being deployed to Vercel!
 
 **🔗 Deployment URLs:**
-- **Inspect/Monitor**: https://vercel.com/omkar-ds-projects/deepfake-detector/5LxGBK8y9jnEvn5W8woM9ywUmWps
-- **Production URL**: https://deepfake-detector-qzcrkl52y-omkar-ds-projects.vercel.app
+- **Inspect/Monitor**: Configure your Vercel project after import.
+- **Production URL**: https://your-project.vercel.app
 
 **Status**: Building... (usually takes 2-5 minutes)
 
 ### 2. GitHub Push (IN PROGRESS)
 Your code is being pushed to GitHub in the background.
 
-**Repository**: https://github.com/omkarkalagi/Ai-Deepfake-Detector
+**Repository**: https://github.com/adarshnayik/deepfake-detector
 
 ---
 
@@ -146,7 +146,7 @@ You'll know deployment succeeded when:
 
 1. **Test All Features** (see checklist above)
 2. **Share Your App**:
-   - Production URL: `https://deepfake-detector-qzcrkl52y-omkar-ds-projects.vercel.app`
+   - Production URL: `https://your-project.vercel.app`
    - Or set up custom domain in Vercel dashboard
 
 3. **Monitor Performance**:
@@ -163,9 +163,9 @@ You'll know deployment succeeded when:
 ## 🔗 Important Links
 
 - **Vercel Dashboard**: https://vercel.com/dashboard
-- **GitHub Repo**: https://github.com/omkarkalagi/Ai-Deepfake-Detector
-- **Deployment Logs**: https://vercel.com/omkar-ds-projects/deepfake-detector/5LxGBK8y9jnEvn5W8woM9ywUmWps
-- **Production App**: https://deepfake-detector-qzcrkl52y-omkar-ds-projects.vercel.app
+- **GitHub Repo**: https://github.com/adarshnayik/deepfake-detector
+- **Deployment Logs**: Available in your Vercel project dashboard.
+- **Production App**: https://your-project.vercel.app
 
 ---
 

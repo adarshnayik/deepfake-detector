@@ -95,7 +95,7 @@ Follow the instructions in: `VERCEL_QUICK_START.md`
 
 **TL;DR:**
 1. Go to https://vercel.com/new
-2. Import `omkarkalagi/Ai-Deepfake-Detector`
+2. Import `adarshnayik/deepfake-detector`
 3. Add environment variables:
    - `SECRET_KEY` (generate with Python)
    - `UPLOAD_FOLDER=/tmp/uploads`
